@@ -1,0 +1,87 @@
+body{
+    padding-top: 100px;
+    font-family: "Happy Monkey", system-ui;
+    font-weight: 400;
+    text-align: center;
+    background: linear-gradient(#a2d2ff, pink) ;
+    color: #ffffff;
+}
+
+.direction{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#img{ /* Make the Image in Circle Shape */
+    height: 400px;
+    width: 400px;
+    border: 8px solid #efb0c9;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+h1, h2, h3, h4{ /* Group CSS selector */
+    text-shadow: 0px 0px 1px black;
+}
+
+
+#age{
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin: 15px 0px 5px 0px;
+    text-shadow: 0px 0px 1px black;
+    background: #efb0c9;
+}
+
+#dob{
+    padding: 5px 5px;
+    border-radius: 5px;
+    margin-top: 5px;
+    text-shadow: 0px 0px 1px black;
+    background: #efb0c9;
+}
+
+.gift-section{
+    margin-top: 50px;
+    
+}
+
+.gift-text{
+    margin-bottom: 5px 
+}
+
+.gift-hint{
+    margin-top: 0px;
+}
+
+.gift-image{
+    width: 400px;
+    height: 400px;
+    border: 5px solid #ffffff;
+    border-radius: 5px;
+    background-image: url('gift-cover.jpg');
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#happiness:hover{
+    background-image: url('https://ecards.joliecarte.com/33610/birthday-card-child-dinosaur.gif');
+    background-position: center;
+    background-size: cover;
+}
+
+
+.gift-text{
+    margin-top: 100px;
+    margin-bottom: 20px;
+}
+#mass:hover{
+    background-image: url('https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUya2ppOTQzdjE2YW5peHllMzY3dm9wbXI4ZXZoZjF5YzBmcjU0amU2eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4uPjyGbLJMOxa/200w.gif');
+}
+
+
+#footer{
+    width: 400px;
+    margin: 100px auto 0px auto;
+}
