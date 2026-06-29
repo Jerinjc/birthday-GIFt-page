@@ -4,7 +4,7 @@ A fun and interactive birthday webpage built using **HTML** and **CSS**. The pag
 
 ## Live Demo
 
-*Add your Netlify/GitHub Pages link here.*
+*https://animated-begonia-6a7c30.netlify.app/*
 
 ## 📸 Preview
 
@@ -71,4 +71,4 @@ A fun and interactive birthday webpage built using **HTML** and **CSS**. The pag
 
 **Jerin John Chacko**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/Jerinjc
